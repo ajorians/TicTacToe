@@ -1,7 +1,7 @@
 #pragma once
 
 #include <vector>
-#include "SpotType.h"
+#include <TicTacToeLib/SpotType.h>
 
 class GameBoard
 {

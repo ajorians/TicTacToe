@@ -1,4 +1,5 @@
-#include "GameBoard.h"
+#include "stdafx.h"
+#include <TicTacToeLib/GameBoard.h>
 
 GameBoard::GameBoard(int nDimension)
 {

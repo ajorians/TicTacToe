@@ -1,7 +1,7 @@
 #pragma once
 
-#include "GameBoard.h"
-#include "GameLogic.h"
+#include <TicTacToeLib/GameBoard.h>
+#include <TicTacToeLib/GameLogic.h>
 
 struct SDL_Surface;
 struct SDL_Renderer;

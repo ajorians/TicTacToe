@@ -1,5 +1,6 @@
-#include "GameLogic.h"
-#include "GameBoard.h"
+#include "stdafx.h"
+#include <TicTacToeLib/GameLogic.h>
+#include <TicTacToeLib/GameBoard.h>
 
 GameLogic::GameLogic(GameBoard& board)
 	: m_Board(board)
